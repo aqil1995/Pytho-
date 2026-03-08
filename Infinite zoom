@@ -1,2 +1,2 @@
-# 2. Infinite zoom square illusion
+Infinite zoom square illusion
 while 1:print(" "*(int(10+10*(1+int(10**9/(1+id(1)**2)%9999)/9999)))+"⬛")

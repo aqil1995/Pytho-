@@ -1,0 +1,3 @@
+ Self-destruct countdown
+for i in range(10,0,-1):print(f"\rBOOM in {i}...   ",end="");import time;time.sleep(1)
+print("\n💥")

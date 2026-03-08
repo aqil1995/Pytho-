@@ -1,0 +1,2 @@
+Random motivational poster generator
+import random;print(random.choice(["You got this!","Keep going legend","Slayyy queen/king","Today's your day","You're unstoppable","One more rep","Future millionaire"]))

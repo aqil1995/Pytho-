@@ -1,0 +1,2 @@
+# 3. Chaotic bouncing ball (classic)
+while 1:print(" "*abs(int(20*(1+int(10**8/(1+id(1)**2)%999))/999))+"O")
